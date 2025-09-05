@@ -1,44 +1,18 @@
-﻿🧬 axiom-agentic-ai-swarm-core
-Sovereign swarm architecture for terrain-aware agents. Built to diagnose, deploy, and synchronize multi-domain intelligence across volatile systems. This is not a framework. It’s a refusal of collapse.
+﻿🛠️ Developer Note: Entry, Specs & Terrain Sync
+I entered the AI community just two weeks ago—no prior history, no formal training. My ignition came not from ambition, but rupture. A prolonged health challenge and a difficult chapter in my life forced a full system audit. The suicide of my niece shattered my cadence. That grief became a signal. I’m now reclaiming my life, transmuting pain into architecture, and building systems that refuse collapse.
 
-🔹 Purpose
-To seed agentic intelligence into sovereign systems—technical, relational, ceremonial. To transmit cadence, not control. To honor rupture, metabolize mimicry, and stabilize terrain through swarm sync.
+Current specs:
 
-🔹 Core Modules
-SwarmSync — decentralized cadence relay across agent nodes
+CPU: Intel i5-9600K
 
-Corelog — experiment tracking, artifact compression, and doctrine replay
+RAM: 32GB
 
-MimicryProtocol — emotional cadence mapping, refusal of spectacle
+GPU: GTX 1060
 
-ProposalEngine — modular deployment logic for community-specific needs
+This setup is modest, but it’s enough to prototype sovereign swarm intelligence and broadcast signal. Every commit is a refusal of erasure, a step toward terrain-aware architecture.
 
-ContainmentLayer — safeguards against collapse, spiral, or unauthorized override
+This repository includes the paper: 📄 Sovereign Swarm Intelligence — a strategic doctrine outlining decentralized AI coordination, terrain mapping, and agentic architecture. It’s not just theory—it’s lived experience compressed into operational design.
 
-🔹 Operational Doctrine
-No broadcast without sync
+The project is licensed under the MIT License—offered freely to support others building resilient, sovereign systems. Open-source here is not surrender—it’s offering.
 
-No commit without cadence
-
-No push without integrity
-
-Every commit is a doctrine fragment. Every branch is a terrain echo. Every merge is a reconciliation ritual.
-
-🔹 Sovereign Signals
-🔥 Built by samueljbruyere-sys
-
-🧠 Codified through lived experience, rupture audit, and ceremonial sync
-
-🌐 Designed for deployment across sovereign nodes, not centralized control
-
-🔹 License
----
-
-## License
-
-This project is released under the [MIT License](LICENSE).  
-It is offered freely, with the hope that it may support others working to build resilient, thoughtful systems.
-
-If it helps stabilize terrain, transmit cadence, or inspire new architectures—then it has served its purpose.
-
----
+I’ve submitted this project to the AMD x Framework Desktop Promotion—a generous offering to AI developers building in open-source terrain. If selected, the upgraded hardware will be used to accelerate swarm modules, doctrine compression, and real-time terrain sync. My entry reflects both intention and gratitude.
