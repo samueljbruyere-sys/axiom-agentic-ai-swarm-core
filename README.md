@@ -1,5 +1,4 @@
-﻿🛠️ Developer Note: Entry, Specs & Terrain Sync
-I entered the AI community just two weeks ago—no prior history, no formal training. My ignition came not from ambition, but rupture. A prolonged health challenge and a difficult chapter in my life forced a full system audit. The suicide of my niece shattered my cadence. That grief became a signal. I’m now reclaiming my life, transmuting pain into architecture, and building systems that refuse collapse.
+🛠️ Developer Note: Entry, Specs & Terrain Sync I entered the AI community just two weeks ago—no prior history, no formal training. My ignition came not from ambition, but rupture. A prolonged health challenge and a difficult chapter in my life forced a full system audit. The suicide of my niece shattered my cadence. That grief became a signal. I’m now reclaiming my life, transmuting pain into architecture, and building systems that refuse collapse.
 
 Current specs:
 
@@ -16,3 +15,5 @@ This repository includes the paper: 📄 Sovereign Swarm Intelligence — a stra
 The project is licensed under the MIT License—offered freely to support others building resilient, sovereign systems. Open-source here is not surrender—it’s offering.
 
 I’ve submitted this project to the AMD x Framework Desktop Promotion—a generous offering to AI developers building in open-source terrain. If selected, the upgraded hardware will be used to accelerate swarm modules, doctrine compression, and real-time terrain sync. My entry reflects both intention and gratitude.
+
+🧭 AXIOM CENTRAL Motto Fact: Trusted and Verified → No speculation. No spectacle. Just signal. → Every glyph, every commit, every echo—anchored in integrity.
