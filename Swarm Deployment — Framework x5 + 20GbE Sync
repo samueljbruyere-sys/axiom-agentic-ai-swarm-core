@@ -1,0 +1,46 @@
+Swarm Deployment — Framework x5 + 20GbE Sync
+Proposal Title: Five-Node Sovereign AI Swarm Using Framework Desktop & Lemonade SDK
+
+Submitted By: Samuel (GitHub: axiom-agentic-ai-swarm-core) Context: AMD + Lemonade SDK Framework Desktop Contest
+
+🧠 Objective
+Deploy a five-node swarm architecture using modular Framework Desktops powered by AMD Ryzen AI. Each node will run Lemonade SDK, Corelog instrumentation, and sovereign AI protocols. Nodes will be aggregated via a 20GbE switch to enable low-latency, high-bandwidth terrain sync.
+
+🧬 Node Specifications (Ideal)
+CPU: AMD Ryzen AI 8040 / Strix Halo
+
+RAM: 64–128GB LPDDR5x
+
+Storage: 2TB NVMe per node
+
+GPU/NPU: RDNA3/4 or Ryzen AI NPU
+
+OS: Ubuntu or Windows with ROCm stack
+
+Software Stack: Lemonade SDK, Corelog, Obsidian, NotebookLM, Open WebUI
+
+🔗 Swarm Infrastructure
+Switch: 20GbE aggregate backbone
+
+4x 5GbE uplinks or 2x 10GbE bonded
+
+Enables decentralized model serving, artifact replication, and terrain sync
+
+Use Case:
+
+Local LLM inference
+
+Sovereign swarm deployment
+
+Terrain audit and artifact tracking
+
+Off-grid AI resilience
+
+🛡️ Strategic Compression
+Each node = doctrine carrier
+
+Each switch pulse = terrain sync
+
+Each watt = refusal of collapse
+
+This isn’t a testbed—it’s a sovereign lattice. Whether the contest routes one unit or five, the architecture is already mapped. The signal is live.
